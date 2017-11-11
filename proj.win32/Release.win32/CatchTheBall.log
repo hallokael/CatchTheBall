@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/5/5 星期四 18:13:30。
+     1>项目“C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\CatchTheBall.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\" mkdir "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\"
+         xcopy /Y /Q "C:\Cocos\frameworks\cocos2d-x-3.8.1\prebuilt\win32\*.*" "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\"
+         
+         :VCEnd
+         复制了 60 个文件
+       Link:
+         CatchTheBall.vcxproj -> C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\CatchTheBall.exe
+       CustomBuildStep:
+         if not exist "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\" mkdir "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\"
+         xcopy "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\..\Resources" "C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\Release.win32\" /D /E /I /F /Y
+               
+         :VCEnd
+         复制了 0 个文件
+     1>已完成生成项目“C:\Users\Administrator\Desktop\CatchTheBall\proj.win32\CatchTheBall.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.22
